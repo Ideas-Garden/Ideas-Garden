@@ -18,16 +18,14 @@ Clique na imagem acima para assistir ao vídeo de apresentação do projeto Idea
 - **Ambiente Colaborativo**: Permite o compartilhamento de insights, sugestões e feedbacks para impulsionar o desenvolvimento dos projetos.
 - **Oportunidades de Investimento**: Ajuda investidores a encontrar ideias inovadoras que se alinhem com seu portfólio.
 
-## Entre em Contato
-
-Para mais informações, dúvidas ou sugestões, sinta-se à vontade para entrar em contato conosco pelos seguintes canais:
-
-- **Instagram**: [@ideas_gardens](https://www.instagram.com/ideas_gardens/)
-- **WhatsApp**: [85 92637-973](https://wa.me/558592637973)
-- **Email**: [ideasgarden1234@gmail.com](mailto:ideasgarden1234@gmail.com)
-
 ## Contribua com o nosso Jardim 🌻
 
 Gostaria de ajudar a cultivar o crescimento do **Ideas Garden**? Entre em contato conosco e faça parte dessa jornada para transformar ideias em realidade. Vamos fazer este jardim florescer juntos!
+
+Sinta-se à vontade para entrar em contato conosco pelos seguintes canais:
+
+- **Instagram**: [@ideas_gardens](https://www.instagram.com/ideas_gardens/)
+- **WhatsApp**: [85 9263-7973](https://wa.me/558592637973)
+- **Email**: [ideasgarden1234@gmail.com](mailto:ideasgarden1234@gmail.com)
 
 
