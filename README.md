@@ -8,7 +8,7 @@ O **Ideas Garden** busca simplificar a jornada de startups em busca de capital e
 
 ## Conheça nosso Jardim
 
-[![Assista ao Vídeo](https://img.youtube.com/vi/YFmr-fqHPJc/0.jpg)](https://www.youtube.com/watch?v=YFmr-fqHPJc)
+[![Assista ao Vídeo](https://img.youtube.com/vi/pKHvx0lTg7I/0.jpg)](https://www.youtube.com/watch?v=pKHvx0lTg7I)
 
 Clique na imagem acima para assistir ao vídeo de apresentação do projeto Ideas Garden.
 
