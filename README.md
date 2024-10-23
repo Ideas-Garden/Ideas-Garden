@@ -6,13 +6,11 @@ Bem-vindo ao **Ideas Garden**, uma plataforma web inovadora que conecta startups
 
 O **Ideas Garden** busca simplificar a jornada de startups em busca de capital e proporcionar aos investidores uma maneira fácil de encontrar projetos promissores. Através de nossa plataforma, startups podem apresentar suas ideias, e investidores podem acompanhar o crescimento e os avanços desses projetos em um ambiente colaborativo e transparente.
 
-## Demonstração do Projeto
+## Conheça nosso Jardim
 
-<a href="https://www.youtube.com/watch?v=abc123" target="_blank">
-    <img src="https://img.youtube.com/vi/abc123/0.jpg" alt="Assista ao Vídeo" style="width:100%; max-width:600px;">
-</a>
+[![Assista ao Vídeo](https://img.youtube.com/vi/YFmr-fqHPJc/0.jpg)](https://www.youtube.com/watch?v=YFmr-fqHPJc)
 
-Clique na imagem acima para assistir ao vídeo de apresentação do projeto no YouTube.
+Clique na imagem acima para assistir ao vídeo de apresentação do projeto Ideas Garden.
 
 ## Funcionalidades
 
